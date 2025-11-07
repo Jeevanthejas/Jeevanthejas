@@ -1,5 +1,9 @@
 # 💫 Hi 👋, I'm JEEVAN THEJAS 
-**A passionate AIML engineer 
+**A passionate AIML engineer a final year machine learning undergrad and Python developer focused on building intelligent, scalable systems.
+
+Passionate about advancing the frontiers of Artificial Intelligence and Machine Learning, I specialize in developing data-driven systems that convert complex challenges into intelligent, real-world solutions. My core focus lies in the AI development lifecycle — from building optimized data pipelines and developing deep learning and computer vision models, to integrating LLMs and AI agents into production-ready backends using LangChain, LangGraph, and Python frameworks.
+
+I enjoy working with modern machine learning ecosystems involving TensorFlow, PyTorch, and OpenCV, while maintaining strong fundamentals in data preprocessing, model optimization, and evaluation metrics. My understanding of statistics and analytical modeling enables me to approach AI problems with precision and insight.
 
 Email Me 👉 ✉️ ** jeevanthejas7@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
 
@@ -16,15 +20,4 @@ Email Me 👉 ✉️ ** jeevanthejas7@gmail.com ** For Collaboration/Project or 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jeevanthejas&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jeevanthejas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanthejas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jeevanthejas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=jeevanthejas&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
