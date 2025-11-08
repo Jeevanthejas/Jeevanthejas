@@ -5,7 +5,7 @@ Passionate about advancing the frontiers of Artificial Intelligence and Machine 
 
 I enjoy working with modern machine learning ecosystems involving TensorFlow, PyTorch, and OpenCV, while maintaining strong fundamentals in data preprocessing, model optimization, and evaluation metrics. My understanding of statistics and analytical modeling enables me to approach AI problems with precision and insight.
 
-Email Me 👉 ✉️ ** jeevanthejas7@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ ** jeevanthejas7@gmail.com ** For Collaboration/Project or Anything Else. 
 
 
 ## 🌐 Socials:
