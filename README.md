@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm JEEVAN THEJAS 
+# Hi 👋, I'm JEEVAN THEJAS 
 A final year machine learning undergrad and Python developer focused on building intelligent, scalable systems.
 
 Passionate about advancing the frontiers of Artificial Intelligence and Machine Learning, I specialize in developing data-driven systems that convert complex challenges into intelligent, real-world solutions. My core focus lies in the AI development lifecycle — from building optimized data pipelines and developing deep learning and computer vision models, to integrating LLMs and AI agents into production-ready backends using LangChain, LangGraph, and Python frameworks.
